@@ -136,36 +136,21 @@ The project evaluates the model using:
 
 ## 📷 Example Results
 
-### Training Accuracy
+## 📈 Training Accuracy
 
-*(Insert screenshot here)*
-
-![Accuracy](images/training_accuracy.png)
+![Training Accuracy](Model_Accuracy.png)
 
 ---
 
-### Training Loss
+## 📉 Training Loss
 
-*(Insert screenshot here)*
-
-![Loss](images/training_loss.png)
+![Training Loss](Model_Loss.png)
 
 ---
 
-### Confusion Matrix
+## 🔲 Confusion Matrix
 
-*(Insert screenshot here)*
-
-![Confusion Matrix](images/confusion_matrix.png)
-
----
-
-### Sample Predictions
-
-*(Insert screenshot here)*
-
-![Predictions](images/sample_predictions.png)
-
+![Confusion Matrix](Confusion_Matrix.png)
 ---
 
 ## ⚙ Installation
